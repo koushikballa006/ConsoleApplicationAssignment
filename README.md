@@ -21,6 +21,7 @@ The **Chrome Version Checker & Updater** is a C# console application that detect
 
 ## How It Works
 1. **Detects Installed Chrome Version** - Retrieves version info from the Windows Registry.
+![Detect Installed Version](screenshots/Screenshot 2025-03-10 at 11.16.40 AM.png)
 2. **Fetches Latest Chrome Version** - Queries Google's API for the latest version.
 3. **Version Comparison** - Determines if an update is needed.
 4. **User Prompt** - Offers the option to install/update Chrome.
