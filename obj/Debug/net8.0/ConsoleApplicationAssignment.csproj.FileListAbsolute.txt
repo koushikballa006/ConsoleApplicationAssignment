@@ -1,0 +1,17 @@
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net8.0\ConsoleApplicationAssignment.exe
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net8.0\ConsoleApplicationAssignment.deps.json
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net8.0\ConsoleApplicationAssignment.runtimeconfig.json
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net8.0\ConsoleApplicationAssignment.dll
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net8.0\ConsoleApplicationAssignment.pdb
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.AssemblyInfo.cs
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleA.2B38E144.Up2Date
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.dll
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\refint\ConsoleApplicationAssignment.dll
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.pdb
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ConsoleApplicationAssignment.genruntimeconfig.cache
+C:\Users\chris\source\repos\ConsoleApplicationAssignment\ConsoleApplicationAssignment\obj\Debug\net8.0\ref\ConsoleApplicationAssignment.dll
